@@ -72,7 +72,7 @@ Even though this is much more work to do compare with Power BI and tableau, and 
 
 ## Authors
 
-* **Jasmine Yu** - *Initial work* - [GitHub](https://github.com/jasmineyuer) | [LinkedIn](https://www.linkedin.com/in/jasmine-yu-214712192/)
+* **Jasmine Yu** - *Initial work* - [GitHub](https://github.com/Jasminejump) | [LinkedIn](https://www.linkedin.com/in/jasmine-yu-214712192/)
 
 See also the list of [contributors](/Plotly_dash/Contributor.md) who participated in this project.
 
