@@ -4,7 +4,7 @@ title: Jasmine Yu's Project Page
 description: Welcome to my personal project page. I am actively seeking full-time opportunity as data analyst. If you have a position, please reach me at jasmineyu113@gmail.com
 ---
 # My personal Summary 
-- **Resume** can get access [here](/Jasmine_Resume.docx)
+- **Resume** is [here](/Jasmine_Resume.docx)
 
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I have a B.S.Statistic degree at Wake Forest Univerity. I am proficient in Python, R and SQL. 
