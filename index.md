@@ -21,4 +21,4 @@ description: i LOVE JASMINE
 #  Data Science Project 
 - [Zillow Prize: Zillow's Home Value Prediction (Zestimate) Kaggle](/tp2/index.md)
 - [Yahoo Finance & Other plotly dashboard](/Plotly_dash/README.md)
-- [Conversion rate analysis](https://github.com/JasmineYuer/jasmineyuer.github.io/blob/master/Conversion/Conversion%20Rate%20Analysis%20Task.ipynb)
+- [Conversion rate analysis](https://github.com/Jasminejump/jasminejump.github.io/blob/master/Conversion/Conversion%20Rate%20Analysis%20Task.ipynb)
