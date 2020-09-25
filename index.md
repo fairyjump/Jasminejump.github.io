@@ -34,4 +34,4 @@ This site is meant to showcase some of my completed/on-going projects. Additiona
 #  Data Science Project 
 - [Zillow Prize: Zillow's Home Value Prediction (Zestimate) Kaggle](/tp2/index.md)
 - [Yahoo Finance & Other plotly dashboard](/Plotly_dash/README.md)
-- [Conversion Rate Analysis](/Conversion/Conversion_Rate.ipynb)
+- [Conversion Rate Analysis](/Conversion/Conversion_Rate.html)
