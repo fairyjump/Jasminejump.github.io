@@ -9,15 +9,11 @@ description: Welcome to my personal project page. I am actively seeking full-tim
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I have a B.S.Honor Psychology degree and a math minor at University of Missouri. I am a data visualization lover and create several *Power BI* dashboards. I am also familiar with ETL process and capable of writing complex queries in _Python_ and _SQL_. 
 
-- My 2020 summer internship  at Global AI.(a startup in New York) is responsible for building ETL process to integrate data in gigabytes, creating and deploying dashboard to facilitate decision making process, and scraping large dataset from various source automatically. 
+- My 2020 summer internship  at Global AI.(a startup in New York) is responsible for building ETL process to integrate data in gigabytes, creating and deploying dashboard for business use, and scraping large dataset from various sources automatically. 
 - My master degree capstone with Riverside Health System builds model on 8 gigabytes data to accelerate the medication verification time. 
 - I have one year experience work in a Beijing Consulting firms as Business analyst and solve several cases for clients 
 - I also have two year experience in University's psychology labs where I apply my machine learning knowledge to solve real world problem. 
 - I am a life-long volunteers. I love cats and dogs and I used to have a Guinea pig and two cats. 
-
-# Why Do I create this site 
-
-This site is meant to showcase some of my completed/on-going projects. Additionally, the idea of this site is to not only show the work I have done, but to also present my progression over time, and the evolution of the completeness of the projects as I learn more in the field. Please send me feedback if you think something could be improved! Thank you!
 
 # Power BI Project
 *1. All the data I use come from public data sources. Those projects are not for businesss use but for personal improvement*
