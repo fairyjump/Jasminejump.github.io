@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jasmine Yu's Project Page
-description: Welcome to my personal project page. I am actively seeking full-time opportunity as agiv data analyst. If you have a position, please reach me at jasmineyu113@gmail.com
+description: Welcome to my personal project page. I am actively seeking full-time opportunity as data analyst. If you have a position, please reach me at jasmineyu113@gmail.com
 ---
 # My personal Summary 
 - **Resume** is [here](/Jasmine_Resume.docx)
