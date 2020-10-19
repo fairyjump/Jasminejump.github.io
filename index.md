@@ -4,7 +4,7 @@ title: Jasmine Yu's Project Page
 description: Welcome to my personal project page. I am actively seeking full-time opportunity as data analyst. If you have a position, please reach me at jasmineyu113@gmail.com
 ---
 # My personal Summary 
-- **Resume** is [here](/Jasmine_Resume.docx)
+- **Resume** is [here](/Jasmine_Resume.pdf)
 
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I have a B.S.Honor Psychology degree and a math minor at University of Missouri. I am a data visualization lover and create several *Power BI* dashboards. I am also familiar with ETL process and capable of writing complex queries in _Python_ and _SQL_. 
