@@ -30,7 +30,6 @@ I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I hav
 - [Marketing share analysis by Maven Marketing](https://app.powerbi.com/view?r=eyJrIjoiZjc4ZDI5ODYtN2VmZC00ZWNlLWEzMDEtOGM5MTg1ODZhY2I4IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
 
 #  Data Science Project 
-- [Zillow Prize: Zillow's Home Value Prediction (Zestimate) Kaggle](/tp2/index.md)
 - [Yahoo Finance & Other plotly dashboard](/Plotly_dash/README.md)
 - [Conversion Rate Analysis](/Conversion/Conversion_Rate.html)
 - [PDF_Auto_downloading_web_crawler](/PDF_webscrapping.html)
