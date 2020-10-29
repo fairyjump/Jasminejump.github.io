@@ -24,7 +24,6 @@ I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I hav
 
 
 - [Covid-19 dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjNlMWIwNjItYjk2My00ZWI0LWE0MTAtZDYyNDYxNmM4Y2RmIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9&pageName=ReportSection)
-- [Covid-19 Prediction dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVjYmRjMGYtMTQwNi00NDRjLWIwMzgtMjRjNWQxN2Y5OTg1IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
 - [Revenue Performance Reporting Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZjOGI4NDItMDUxNS00ODIzLTgzY2QtMWJjMmE3OTlmMDRmIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9&pageName=ReportSection)
 - [Adventure Works Cycles Product Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYxZmE2N2QtMTM4Mi00YTVkLTlmNTAtYzc4ZjU3ZGJmZTE0IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
 - [Marketing share analysis by Maven Marketing](https://app.powerbi.com/view?r=eyJrIjoiZjc4ZDI5ODYtN2VmZC00ZWNlLWEzMDEtOGM5MTg1ODZhY2I4IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
