@@ -33,4 +33,3 @@ I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I hav
 - [Conversion Rate Analysis](/Conversion/Conversion_Rate.html)
 - [Credit Card Transaction](/jas_credit_card.html)
 - [PDF_Auto_downloading_web_crawler](/ADB_Grabber.html)
-- [Yahoo Finance & Other plotly dashboard](/Plotly_dash/README.md)
